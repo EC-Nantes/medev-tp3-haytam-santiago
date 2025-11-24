@@ -1,0 +1,11 @@
+pgm\PGMViewer.class
+pgm\PGMDifference.class
+edu\centralenantes\tp_pgm\TP_PGM.class
+pgm\PGMHistogram.class
+pgm\PGMReader.class
+pgm\PGMUtils.class
+pgm\PGMImage.class
+pgm\TestPGM.class
+pgm\PGMResize.class
+pgm\PGMThreshold.class
+pgm\PGMWriter.class
